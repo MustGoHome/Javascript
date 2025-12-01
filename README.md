@@ -2,16 +2,20 @@
 
 ### 🌿 Core Javascript
 
-> **Modern Javascript**<br>
-> https://ko.javascript.info/
+> **Modern Javascript**<br> > https://ko.javascript.info/
 
+### 🌽 Node.js
 
-### 🌽 Open to Regacy
+##### Setting Express
 
-- Refer to `/02_nodejs/httpServer.js` file
+```
+> npm init
+> npm install express
+> node server.js
+```
 
-### 🌾 Open to Express.js
+##### Setting Node.js for MySQL
 
-1. npm init
-2. npm install express
-3. node server.js
+```
+> npm install --save node-mysql
+```
