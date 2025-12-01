@@ -2,9 +2,11 @@
 
 ### 🌿 Core Javascript
 
-- Refer to `/01_js_core` directory
+> **Modern Javascript**<br>
+> https://ko.javascript.info/
 
-### 🪻 Open to Regacy
+
+### 🌽 Open to Regacy
 
 - Refer to `/02_nodejs/httpServer.js` file
 
